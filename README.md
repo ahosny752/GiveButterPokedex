@@ -47,6 +47,8 @@ When you are finished, please upload your completed work to your Github and invi
 Please take some time to answer the following questions. Your answers should go directly in this `readme`.
 
 - Given more time, what would you suggest for improving the performance of this app?
+- create an actual server
+- fix package vulnerabilities
 
 - Is there anything you would consider doing if we were to go live with this app?
 
